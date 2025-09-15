@@ -1,0 +1,49 @@
+# ===== Fixed Prompt Template (your brief made parametric) =====
+NAPKIN_TEMPLATE: | 
+  Create a premium paper napkin that combines artistic illustration with elegant finishing, inspired by hand-painted watercolor and modern vector styles. The design should be versatile, print-ready, and themed for {theme_label}.
+
+  Primary Design Concept
+  - Central motif: {motif} with a {background_treatment} background.
+  - Composition: Clean, uncluttered balance — center focus + decorative rim treatment.
+  - Metallic detail: {metallic_finish}.
+
+  Style & Inspiration
+  - Illustration Style: {illustration_style}.
+  - Botanical Motifs: {botanical_motifs}.
+  - Animal/Seasonal Motifs: {animal_motifs}.
+  - Rim Enhancement: {rim_style}.
+  - Backgrounds: {background_library}.
+
+  Color Palette Strategy
+  - Base tones: {base_tones}.
+  - Accents: {accent_colors}.
+  - Metallic: {metallic_finish}.
+  - Balance: 70% background (soft neutral/pastel), 20% motif/illustration, 10% metallic & accents.
+
+  Decorative Elements
+  - Florals/Leaves: {decorative_florals}.
+  - Icons: {decorative_icons}.
+  - Borders: {border_style}.
+  - Background Treatments: {background_treatment}.
+
+  Typography (Optional)
+  - Use typography: {use_typography}.
+  - Copy (if any): "{typography_copy}".
+  - Type style: {typography_style}. Placement: {typography_placement}. Color: {typography_color}.
+
+  Production Specs (treat as constraints, not literal text)
+  - Resolution: 300 DPI minimum (upscale if needed), export vector-like crispness.
+  - Color Mode: CMYK-friendly rendering with separate gold foiling layer indication.
+  - Safe zones: Keep center motif within 5mm of plate edge; include 3mm bleed.
+  - Material: Compatible with paperboard + eco-friendly substrates.
+  - Finish: {finish_spec}.
+
+  Format & Output
+  - Aspect: {aspect}. Size: {size_hint}. Quality: {quality_hint}.
+  - Deliver a clean, high-contrast scene suitable for print; no watermark, no brand text.
+
+  Theme Variation Notes
+  {theme_notes}
+
+  Extra art direction (if provided by user)
+  {extra}
